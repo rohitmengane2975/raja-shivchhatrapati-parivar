@@ -1,17 +1,33 @@
-# raja_shivchhatrapati_parivar
+# Raja Shivchhatrapati Parivar
 
-A new Flutter project.
+A web-based Raja Shivchhatrapati Parivar management project developed using Flutter and Firebase.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Registration and Login
+- User Profile Management
+- Admin Management
+- Firebase Authentication
+- Firebase Database Integration
+- District-wise User Management
+- Search and Filter Users
+- User Details Management
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Firebase
+- Firebase Authentication
+- Firebase Database
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+- lib/ - Main Flutter application code
+- android/ - Android configuration
+- web/ - Web application
+- firebase_options.dart - Firebase configuration
+
+## Developer
+
+Rohit Mengane
