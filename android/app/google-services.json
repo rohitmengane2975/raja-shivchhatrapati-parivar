@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "480690148394",
+    "firebase_url": "https://raja-shivchhatrapati-parivar-default-rtdb.firebaseio.com",
+    "project_id": "raja-shivchhatrapati-parivar",
+    "storage_bucket": "raja-shivchhatrapati-parivar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480690148394:android:5c3f4d894e1f419d415f53",
+        "android_client_info": {
+          "package_name": "com.example.raja_shivchhatrapati_parivar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClroJrPCaLpuVEF-UgamsrU2IA1lxdEYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
